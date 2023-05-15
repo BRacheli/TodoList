@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V9o5dH82JkuHnV48v9FAwHIZEKpdz34EobNxry/EVzo0gPdeNbTzaInQMaMjLFjYJPQ9Wckqzcn9iW4cOR+maw==",
+  "dgSpecHash": "VK0OpAbgPd0+RWxGWfIdZHjzrSMUgRRGrvnGngg1wVWQRpz/uu9xhZYoCpEgHw28QK3IXWxzpO1zl1SITOYdIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\support.SELDAT\\Desktop\\רחלי\\פרקטיקוד\\פרויקט 1\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\support.SELDAT\\Desktop\\רחלי\\פרקטיקוד\\פרויקט\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\support.SELDAT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\support.SELDAT\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
