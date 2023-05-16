@@ -10,12 +10,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("OpenPolicy",
-                          policy =>
-                          {
-                              policy.WithOrigins("http://localhost:3000")
-                                                  .AllowAnyHeader()
-                                                  .AllowAnyMethod();
-                          });
+                          policy => policy.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader());
+                     
 });
 builder.Services.AddSwaggerGen(c =>
 {
